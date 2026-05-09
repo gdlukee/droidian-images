@@ -1,26 +1,26 @@
 # This file has been generated automatically by droidian-new-device
 
 # samsung star2qltechn
-samsung_star2qltechn:
-  type: image
-  arch: arm64
-  edition: phosh
-  variant: phone
-  apilevel: 29
-  use_internal_repository: false
+# samsung_star2qltechn:
+  # type: image
+  # arch: arm64
+  # edition: phosh
+  # variant: phone
+  # apilevel: 29
+  # use_internal_repository: false
 
-  packages:
-    - adaptation-droidian-star2qltechn
-    - adaptation-star2qltechn-configs
-    - droidian-sysfs-torch
-    - linux-bootimage-4.9.337-samsung-star2qltechn
-    - linux-bootimage-samsung-star2qltechn
-    - linux-headers-4.9.337-samsung-star2qltechn
-    - linux-headers-samsung-star2qltechn
-    - linux-image-4.9.337-samsung-star2qltechn
-    - linux-image-samsung-star2qltechn
-    - ssh
-    - hybris-usb
+  # packages:
+    # - adaptation-droidian-star2qltechn
+    # - adaptation-star2qltechn-configs
+    # - droidian-sysfs-torch
+    # - linux-bootimage-4.9.337-samsung-star2qltechn
+    # - linux-bootimage-samsung-star2qltechn
+    # - linux-headers-4.9.337-samsung-star2qltechn
+    # - linux-headers-samsung-star2qltechn
+    # - linux-image-4.9.337-samsung-star2qltechn
+    # - linux-image-samsung-star2qltechn
+    # - ssh
+    # - hybris-usb
 
 # samsung_star2qltechn-cutie:
 #   type: image
@@ -45,7 +45,7 @@ samsung_star2qltechn:
 samsung_crownqltechn:
   type: image
   arch: arm64
-  edition: [phosh, plamo_wf_experimental]
+  edition: phosh
   variant: phone
   apilevel: 29
   use_internal_repository: false
@@ -84,26 +84,26 @@ samsung_crownqltechn:
 
 
 # samsung starqltechn
-samsung_starqltechn:
-  type: image
-  arch: arm64
-  edition: phosh
-  variant: phone
-  apilevel: 29
-  use_internal_repository: false
+# samsung_starqltechn:
+  # type: image
+  # arch: arm64
+  # edition: phosh
+  # variant: phone
+  # apilevel: 29
+  # use_internal_repository: false
 
-  packages:
-    - adaptation-droidian-starqltechn
-    - adaptation-starqltechn-configs
-    - droidian-sysfs-torch
-    - linux-bootimage-4.9.337-samsung-starqltechn
-    - linux-bootimage-samsung-starqltechn
-    - linux-headers-4.9.337-samsung-starqltechn
-    - linux-headers-samsung-starqltechn
-    - linux-image-4.9.337-samsung-starqltechn
-    - linux-image-samsung-starqltechn
-    - ssh
-    - hybris-usb
+  # packages:
+    # - adaptation-droidian-starqltechn
+    # - adaptation-starqltechn-configs
+    # - droidian-sysfs-torch
+    # - linux-bootimage-4.9.337-samsung-starqltechn
+    # - linux-bootimage-samsung-starqltechn
+    # - linux-headers-4.9.337-samsung-starqltechn
+    # - linux-headers-samsung-starqltechn
+    # - linux-image-4.9.337-samsung-starqltechn
+    # - linux-image-samsung-starqltechn
+    # - ssh
+    # - hybris-usb
 
 # samsung_starqltechn-cutie:
 #   type: image
