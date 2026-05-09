@@ -45,7 +45,7 @@ samsung_star2qltechn:
 samsung_crownqltechn:
   type: image
   arch: arm64
-  edition: phosh
+  edition: [phosh, plamo_wf_experimental]
   variant: phone
   apilevel: 29
   use_internal_repository: false
