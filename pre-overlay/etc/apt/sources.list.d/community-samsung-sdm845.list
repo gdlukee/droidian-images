@@ -1,1 +1,1 @@
-deb [arch=arm64 signed-by=/etc/apt/trusted.gpg.d/community-samsung-sdm845.gpg] https://fabito02.github.io/droidian-samsung_sdm845-repo stable common starqltechn star2qltechn crownqltechn
+deb [arch=arm64 signed-by=/etc/apt/trusted.gpg.d/community-samsung-sdm845.gpg] https://gdlukee.github.io/droidian-samsung_sdm845-repo stable common starqltechn star2qltechn crownqltechn
